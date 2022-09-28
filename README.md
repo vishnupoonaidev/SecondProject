@@ -1,2 +1,2 @@
-# SecondProject
-my second project
+# Second Project
+my second project. Hello Everyone 
